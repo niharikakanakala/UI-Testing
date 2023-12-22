@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" errors="0" time="2.769">
+  <testsuite name="main.test.js" errors="0" failures="0" skipped="0" timestamp="2023-12-22T14:57:14" time="1.84" tests="2">
+    <testcase classname="" name="navigates back to the home page when &quot;Go Back&quot; button is clicked" time="0.143">
+    </testcase>
+    <testcase classname="" name="applies proper styles to the &quot;Click this&quot; button" time="0.026">
+    </testcase>
+  </testsuite>
+  <testsuite name="sample.test.js" errors="0" failures="0" skipped="0" timestamp="2023-12-22T14:57:14" time="2.172" tests="5">
+    <testcase classname="" name="navigates to Encrypt page on button click" time="0.152">
+    </testcase>
+    <testcase classname="" name="button disappears on /encrypt route" time="0.029">
+    </testcase>
+    <testcase classname="" name="has the correct styling" time="0.04">
+    </testcase>
+    <testcase classname="" name="applies proper margin to the Encrypt button" time="0.028">
+    </testcase>
+    <testcase classname="" name="resets input fields and encrypted text on Reset button click" time="0.21">
+    </testcase>
+  </testsuite>
+</testsuites>
